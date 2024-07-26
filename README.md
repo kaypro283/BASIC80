@@ -12,7 +12,8 @@ The Kaypro, for which these programs were optimized, was a portable microcompute
 This repository includes:
 
 * Games written in BASIC-80
-* Utility applications
+* Statistics programs
+* Benchmarking applications 
 * Demonstration programs
 
 Each program is provided as a separate file with a .bas extension.
