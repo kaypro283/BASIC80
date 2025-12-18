@@ -25,7 +25,7 @@ A Microsoft BASIC-80 (MBASIC-80) program that builds a **Holt–Winters exponent
 
 ## Files
 
-- `HOLTWIN.BAS`
+- `HOLTWINT.BAS`
 
 ## Requirements
 
